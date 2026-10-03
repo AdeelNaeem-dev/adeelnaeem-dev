@@ -1,100 +1,110 @@
 <div align="center">
 
-# Hi, I'm Adeel Naeem 
-### AI & Automation Engineer — I build AI Agents, GenAI Apps & Workflow Automation that ship to production
+# Hi, I'm Adeel Naeem
+### AI & Automation Engineer — agentic workflows, RAG pipelines, n8n automation & full-stack AI apps
 
-I turn LLMs into systems that actually run in the real world — agents that make decisions, RAG pipelines that answer accurately, and automations that remove hours of manual work from real businesses.
+Based in Rawalpindi, Pakistan · BS Artificial Intelligence, NUML (2026)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adeelnaeem-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelnaeem-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/AdeelNaeem44?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
-![Profile views](https://komarev.com/ghpvc/?username=AdeelNaeem44&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=AdeelNaeem-dev&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I'm an AI & Automation Engineer focused on one thing: making AI *useful*, not just impressive in a demo. That means:
+I'm an AI & Automation Engineer at **Techup.AI**, where I build LLM-powered automation for business processes and ship the web products around it. My work sits at the intersection of:
 
--  Designing **AI Agents** that reason, use tools, and complete multi-step tasks autonomously
--  Building **RAG systems** that retrieve the right context and cite it accurately
--  Automating business workflows end-to-end with **n8n**, APIs, and custom integrations
--  Shipping **GenAI applications** people actually use — not just prototypes
--  Designing for production: error handling, scalability, and maintainability from day one
-
-If you're hiring for AI engineering, automation, or applied LLM work — this profile is a good place to start.
+- **Agentic workflows** — multi-agent orchestration, intent/entity extraction, validation and caching layers
+- **RAG pipelines** — document ingestion, chunking, vector indexing and context-aware retrieval
+- **n8n automation** — webhook-driven, event-driven orchestration across external APIs and services
+- **Full-stack delivery** — React / Next.js frontends with FastAPI and Firebase / Supabase backends
+- **Data extraction** — web scraping and lead-data cleaning at volume (5,000+ records/day)
 
 ---
-#  Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-|  **AI Property Assistant** | AI-powered real estate assistant that helps users search properties, answer property-related queries, and provide personalized recommendations using LLMs and intelligent retrieval. | Python • LangChain • Gemini/OpenAI • RAG • Vector DB |
-|  **HUDHUD EDU Website** | Modern educational platform designed to provide students with learning resources, AI-powered features, and a responsive user experience. | React • JavaScript • Python • REST APIs |
-|  **NUML RAG Agent** | Intelligent university admission assistant built on official NUML documents. Uses Retrieval-Augmented Generation to answer admission-related questions with accurate, context-aware responses. | Python • LangChain • Gemini • ChromaDB • RAG |
-|  **Empathy AI** | AI-powered training platform that simulates realistic patient conversations to help medical professionals improve empathy, communication, and clinical decision-making skills. | Python • LLMs • Prompt Engineering • NLP • AI Agents |
-|  **AI Proposal Pitch Deck Generator** | Generates professional investor-ready pitch decks from a single prompt, significantly reducing proposal preparation time. | Gemini API • Python • React |
-|  **AI News Summarizer** | Automatically collects, summarizes, and analyzes daily technology news with AI-generated summaries and sentiment analysis. | Python • Hugging Face • MongoDB • n8n |
-|  **End-to-End Email Automation** | Intelligent hiring workflow that automates email generation, candidate communication, and multi-step recruitment processes. | n8n • Gmail API • AI Agents • Workflow Automation |
+## Experience
+
+**AI & Automation Engineer — Techup.AI** · Apr 2026 – Present · Rawalpindi (Onsite)
+- Build agentic workflows and LLM-powered automation pipelines using RAG and LangChain across 10+ workflows.
+- Design webhook-driven, event-driven orchestration in n8n connecting 3+ external services.
+- Developed and shipped the Techup.AI web application — a live platform for Human + AI Operations for PI firms (frontend, backend, AI-agent integration).
+- Scrape and clean lead/contact data, handing 5,000+ records/day to the outreach team.
+
+**AI Intern — CodeCelix** · Jul 2025 – Oct 2025 · Remote
+- Built an LLM system (GPT-based models + prompt engineering) that auto-generates structured business proposals and pitch decks, cutting manual creation time by ~70%.
+- Designed agentic pipelines producing 4-section decks (Problem, Solution, Market, Team) across 5+ business domains, exported automatically via `python-pptx`.
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Techup.AI Web Application** | Company platform presenting Human + AI Operations services to PI-firm clients; responsive multi-page site, live in production. | Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Three.js |
+| **Hudhud — English Learning Platform** | End-to-end web app for an Uzbek client helping Uzbek speakers learn English through structured, interactive lessons. 100+ users. | React · Firebase |
+| **AI Property Assistant** | Multi-agent property search in n8n with a 3-stage pipeline (Groq LLM intent/entity extraction → validation → cache-decision layer) that cut redundant API calls by 80%. Real-time weather enrichment and webhook-driven Switch routing. | n8n · Groq · LangChain · OpenWeatherMap API |
+| **NUML RAG Chatbot** | RAG chatbot for context-aware retrieval over NUML documents, with an end-to-end ingestion pipeline and Streamlit UI. | Python · LangChain · FAISS · HuggingFace · Google GenAI · Streamlit |
+| **EmpathyMD — AI Empathy Training for Doctors** | Full-stack training app with AI-simulated patient roleplay. Custom speech-emotion model trained from scratch (CNN+LSTM, 82% accuracy) plus DeepFace for real-time facial and vocal feedback. | React · FastAPI · SQL · TensorFlow · DeepFace |
+| **AI Proposal & Pitch Deck Generator** | Generates structured proposals and 4-section pitch decks from a prompt, exported automatically to PowerPoint. | GPT-based LLMs · Python · python-pptx |
+
 ---
 
 ## Technical Skills
 
-**AI & Generative AI**
-OpenAI API · Gemini API · LangChain · Hugging Face · AI Agents · Prompt Engineering · RAG · Embeddings · Whisper · Vector Databases
+**Agentic AI & Automation** — Agentic Workflows · Multi-Agent Orchestration · n8n · Webhook Orchestration · Event-Driven Architecture · REST API Integration
 
-**Automation**
-n8n · Make.com · REST APIs · Webhooks · API Integrations · Scheduling · Error Handling
+**LLM & GenAI** — LLMs · Generative AI · RAG · LangChain · Prompt Engineering · Document Ingestion & Chunking
 
-**Languages**
-Python · SQL · JavaScript · JSON
+**Web Development & Scraping** — React · Next.js · FastAPI · Full-Stack Web Apps · REST APIs · Firebase · Supabase · Web Scraping & Data Extraction
 
-**Databases**
-PostgreSQL · MySQL · MongoDB · Microsoft SQL Server · ChromaDB · Pinecone · Baserow
+**AI / ML** — Deep Learning · Machine Learning · Speech Emotion Recognition · Custom Model Training
 
-**Frameworks & Tools**
-React · Streamlit · FastAPI · Git · GitHub · GitHub Copilot · VS Code
+**Languages & Libraries** — Python · Bash · SQL · NumPy · Pandas · Matplotlib · TensorFlow · Scikit-learn · DeepFace · PyTorch (basic)
+
+**Deployment & Data** — Streamlit · Hugging Face Spaces · Vercel · Supabase · MongoDB · FAISS · Git · GitHub · Hostinger · Namecheap
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,react,fastapi,mongodb,mysql,postgresql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,tailwind,fastapi,firebase,supabase,mongodb,tensorflow,git,github,vercel"/>
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-FE5186?style=for-the-badge&logo=n8n"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pinecone-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 </p>
 
 ---
 
-##  Currently Focused On
+## Education & Certifications
 
-- Autonomous multi-agent systems
-- Advanced RAG architectures (hybrid search, re-ranking, evaluation)
-- Production-grade AI deployment
-- Scalable workflow automation
-
+- **BS Artificial Intelligence** — National University of Modern Languages (NUML), Islamabad · 2022 – 2026
+- **F.Sc Pre-Engineering** — Punjab Group of Colleges, Rawalpindi · 2020 – 2022
+- **SQL Basics** — HackerRank
 
 ---
 
-##  Let's Connect
+## Currently Learning
 
-I'm always open to discussing AI engineering roles, automation projects, or collaborations.
+- Advanced RAG (hybrid search, re-ranking, evaluation)
+- Autonomous multi-agent systems
+- Production-grade AI deployment
+
+---
+
+## Let's Connect
+
+Open to AI engineering, automation and applied LLM roles or projects.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-naeem-ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem44)
-
-### *"Building intelligent AI systems that automate work, empower people, and create measurable business impact."*
-
- If any of this is useful or interesting, a follow is appreciated.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelnaeem-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdeelNaeem-dev)
 
 </div>
