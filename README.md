@@ -9,7 +9,6 @@ Based in Rawalpindi, Pakistan · BS Artificial Intelligence, NUML (2026)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelnaeem-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeln454@gmail.com)
 ![Profile views](<img src="https://hits.sh/github.com/AdeelNaeem-dev.svg?style=for-the-badge&color=blue" alt="Profile views" />) 
-</div>
 
 ---
 
